@@ -1,0 +1,42 @@
+header, footer {
+    background-color: #5E747F;
+    color: white;
+  }
+   
+  nav {
+    background-color: #7B9E87;
+  }
+   
+  nav a {
+    color: white;
+  }
+   
+  nav a:hover {
+    background-color: #B6BE9C;
+    color: black;
+  }
+  
+  .advertisement {
+    border: none;
+  }
+   
+  .featured-products {
+    background-color: #D78A76;
+  }
+   
+  .testimonials {
+    background-color: #FECEE9;
+  }
+   
+  .contributions {
+    background-color: #EB9FEF;
+  }
+  
+  .all {
+    background-color: #011c27;
+  }
+
+  .reviewed-products {
+      background-color: #1b1725;
+  }
+
